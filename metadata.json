@@ -1,0 +1,6 @@
+{
+  "name": "Cyrus",
+  "description": "Simple personal life & expense tracker — Remember, Do, Track.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
